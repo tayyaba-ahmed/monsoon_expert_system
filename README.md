@@ -1,4 +1,4 @@
-# MonsoonCare
+# MonsoonCare Expert System
 
 Expert system for monsoon illnesses, made with Python and Streamlit.
 
