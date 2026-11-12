@@ -25,4 +25,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Live link: (add your Streamlit link here)
+Live link: https://monsoonexpertsystem.streamlit.app/
